@@ -18,4 +18,4 @@ The aim of the project is to create your own version of Wolfenstein 3D..
 	make
 	./wolf3d
 
-[1]: https://github.com/vtiterin/fractol/blob/master/fract_ol.en.pdf
+[1]: https://github.com/vtiterin/wolf3d/blob/master/wolf3d.en.pdf
